@@ -26,8 +26,10 @@ function example() {
   ie:
     quadArray() -> an array with 4 items
 */
+function quadArray(){
+return [1, 2, 3, 4]
 
-
+}
 /*
   Create a function named 'itemCount' with one parameter
   Name the parameter anything you want
